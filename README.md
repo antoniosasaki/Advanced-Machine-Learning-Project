@@ -4,7 +4,7 @@
 
 * [About the Project](#about_the_project)
 * [Problematic](#prob)
-<br>
+  
 ## About the Project
 This repository contains our final work for the Advanced Machine Learning course at ENSAE, Institut Polytechnique de Paris.
 
