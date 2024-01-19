@@ -5,13 +5,12 @@
 * [About the Project](#about_the_project)
 * [Problematic](#prob)
 <br>
-
 ## About the Project
 This repository contains our final work for the Advanced Machine Learning course at ENSAE, Institut Polytechnique de Paris.
 
 In this repository, you will find the following files:
 * A notebook (.ipynb), explaining in more depth our modeling approaches. This notebook contains the main results.
-* A database (.zip) in the input folder that was obtained from the Institute of Electrical and Electronics Engineers.
+* A database (.zip) in the input folder that was obtained from the IEEE Computational Intelligence Society (IEEE-CIS).
 
 If you want to run the notebook from your computer, you will need to clone this repository.
 
