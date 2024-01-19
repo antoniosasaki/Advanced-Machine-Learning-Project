@@ -14,7 +14,7 @@ In this repository, you will find the following files:
 
 If you want to run the notebook from your computer, you will need to clone this repository.
 
-The IEEE-CIS Fraud Detection database which we used in this project is available for access at the following link [public website]([https://www.mavenanalytics.io/data-playground](https://www.kaggle.com/competitions/ieee-fraud-detection/discussion/100662)). 
+The IEEE-CIS Fraud Detection database which we used in this project is available for access at the following link [https://www.mavenanalytics.io/data-playground](https://www.kaggle.com/competitions/ieee-fraud-detection/discussion/100662. 
 
 We would also like to thank Professor Austin J. Stromme for the support and knowledge they gave us.
 
