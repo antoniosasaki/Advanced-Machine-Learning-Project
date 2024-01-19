@@ -1,8 +1,8 @@
-# Fraud detection from customer transactions
+## Fraud detection from customer transactions
 
 Our project tries to predict the probability that an online transaction is fraudulent. We focus on the XGBoost method.
 
-## Table of Contents
+### Table of Contents
 
 * [About the Project](#about_the_project)
 * [Problematic](#prob)
