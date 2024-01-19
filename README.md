@@ -7,7 +7,7 @@ Our project tries to predict the probability that an online transaction is fraud
 * [About the Project](#about_the_project)
 * [Problematic](#prob)
   
-## About the Project
+### About the Project
 This repository contains our final work for the Advanced Machine Learning course at ENSAE, Institut Polytechnique de Paris.
 
 In this repository, you will find the following files:
