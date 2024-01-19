@@ -14,7 +14,8 @@ In this repository, you will find the following files:
 
 If you want to run the notebook from your computer, you will need to clone this repository.
 
-The IEEE-CIS Fraud Detection database which we used in this project is available for access at the link [https://www.mavenanalytics.io/data-playground](https://www.kaggle.com/competitions/ieee-fraud-detection/discussion/100662 and we can find the XGBoost documentation at https://xgboost.readthedocs.io/en/stable/.
+* The IEEE-CIS Fraud Detection database which we used in this project is available for access at the link https://www.mavenanalytics.io/data-playground](https://www.kaggle.com/competitions/ieee-fraud-detection/discussion/100662.
+* We can find the XGBoost documentation at https://xgboost.readthedocs.io/en/stable/.
 
 We would also like to thank Professor Austin J. Stromme for the support and knowledge they gave us.
 
